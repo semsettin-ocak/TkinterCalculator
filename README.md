@@ -1,0 +1,1 @@
+Aim of this project is to use the tkinter interface and to bind radiobuttons to a calculator. Anyone who wants can use it.
